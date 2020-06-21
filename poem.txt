@@ -3,6 +3,9 @@ The Rainbow and the Unicorn and the Pony
 Purple
 Turquoise
 Brown
+Black
+White
+Burgundy
 Violet
 Pink
 Orange
